@@ -5,3 +5,5 @@ services:
     image: startio:1.0-SNAPSHOT
     volumes:
       - "C:/Users/Kobi/startio:/var/input"
+    ports:
+      - 8089:8089
