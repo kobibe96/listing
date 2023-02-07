@@ -1,0 +1,3 @@
+server:
+  port: 8089
+pathToCsvFile : /var/input/listing-details.csv

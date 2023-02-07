@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  kobi-test:
+    container_name: start-io-listings
+    image: startio:1.0-SNAPSHOT
+    volumes:
+      - "C:/Users/Kobi/startio:/var/input"
